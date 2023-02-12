@@ -4,10 +4,7 @@
          <div class="row">
             <div class="col l-12 m-12 s-12">
                <p class="tip-text">
-                  Tip: Đối với các game dành cho điện thoại: vì điện thoại có độ phân
-                  giải cao nên khi chơi Demo trên trình duyệt sẽ bị tràn màn
-                  hình, để trải nghiệm tốt hơn bạn hãy Zoom out (Ctrl + con lăn chuột) trình duyệt lại
-                  (cỡ 33%) để nhìn thấy hết màn hình game nhé!
+                  Tip: Đối với các game dành cho điện thoại bạn nên chơi Demo trên thiết bị điện thoại nhé!
                </p>
             </div>
             <div
@@ -118,7 +115,7 @@ export default {
                price: "100.000",
                linkDemo: "https://thanhlong0304.itch.io/mummy-jumping",
                linkDownload:
-                  "https://drive.google.com/file/d/1z6a4-meQzw1mdLfoEDL7MrgXXQaxSM10/view?usp=share_link",
+                  "https://drive.google.com/file/d/1TdqDjhwl_Kx5MjiGo-wrDOuIxo9PqS98/view?usp=sharing",
             },
             {
                id: 7,
@@ -136,7 +133,7 @@ export default {
                price: "50.000",
                linkDemo: "https://thanhlong0304.itch.io/racing-boy",
                linkDownload:
-                  "https://drive.google.com/file/d/1WAPQKaA8CCM7zv1TvYWM_mCXtxMvmYQd/view?usp=share_link",
+                  "https://drive.google.com/file/d/16tKA-qMalqqakNXG2LykcA7cMJwHeqV6/view?usp=sharing",
             },
          ],
          isShowBuyingDialog: false,
@@ -160,6 +157,7 @@ export default {
 	font-size: 18px;
 	color: $tertiaryColor;
 	line-height: 1.3;
+   margin-bottom: 20px;
 }
 
 .project-list {
