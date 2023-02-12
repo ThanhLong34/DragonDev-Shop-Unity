@@ -133,7 +133,7 @@ export default {
                price: "50.000",
                linkDemo: "https://thanhlong0304.itch.io/racing-boy",
                linkDownload:
-                  "https://drive.google.com/file/d/16tKA-qMalqqakNXG2LykcA7cMJwHeqV6/view?usp=sharing",
+                  "https://drive.google.com/file/d/1RE_ZeEvd9YbOmwScjmOE0y2wxJf_486p/view?usp=sharing",
             },
          ],
          isShowBuyingDialog: false,
